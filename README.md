@@ -43,3 +43,4 @@ VakeelAI is a **Legal Assistant** that helps users with questions related to **I
 - **Real-time Web Search**: If the answer isn't found in the PDFs, the system fetches information using Tavily's search API. 🌍
 - **Integration with Google Gemini**: Leverages **Google Gemini** for generating detailed legal answers from both documents and web data. 🧠🤖
 - **Indian Law-Only Focus**: The assistant is strictly designed to answer queries related to Indian laws, using keywords and intents. 🇮🇳⚖️
+
