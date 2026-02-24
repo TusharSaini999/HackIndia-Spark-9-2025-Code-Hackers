@@ -44,3 +44,12 @@ VakeelAI is a **Legal Assistant** that helps users with questions related to **I
 - **Integration with Google Gemini**: Leverages **Google Gemini** for generating detailed legal answers from both documents and web data. 🧠🤖
 - **Indian Law-Only Focus**: The assistant is strictly designed to answer queries related to Indian laws, using keywords and intents. 🇮🇳⚖️
 
+## 🤝 Contributing
+
+We welcome contributions from the legal and tech communities! Whether it's reporting a bug, improving the RAG logic, or contributing new legal datasets, please feel free to open a Pull Request or Issue.
+
+## ⚠️ Disclaimer
+
+VakeelAI is an AI-powered assistant designed for informational and educational purposes only. It does not constitute professional legal advice. Users are strongly encouraged to consult with a qualified legal professional for specific legal matters.
+
+Empowering every Indian citizen with the power of legal knowledge. 🇮🇳
